@@ -34,11 +34,15 @@ Welcome to the "Data Professional Survey Breakdown" Power BI project! This visua
 
 ![DERMOGRAPHIC INSIGHT](https://github.com/JohnEvansOkyere/Data-Pro.-Survey-Breakdown/assets/148287702/cf6165f0-5a33-4bc4-85d2-75e47d580dfe)
 
-## Getting Started
 
-Follow these steps to explore the visualizations:
+## Dependencies
+Power BI
+## Acknowledgments
+Alex the Analys, YOUTUBER
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/data-professional-survey.git
-   cd data-professional-survey
+Contact
+For questions or collaboration opportunities, feel free to reach out:
+
+📧 Email: [okyerevansjohn@gmail.com)
+💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/feed/)https://www.linkedin.com/feed/
+Happy Visualizing to me! 🚢📊
