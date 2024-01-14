@@ -44,5 +44,7 @@ Contact
 For questions or collaboration opportunities, feel free to reach out:
 
 📧 Email: [okyerevansjohn@gmail.com)
+
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/feed/)https://www.linkedin.com/feed/
+
 Happy Visualizing to me! 🚢📊
